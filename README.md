@@ -38,10 +38,12 @@ The system is designed as a prototype exploring ideas in search, context managem
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Run the Program
 ```bash
 python Pacific.py
+```
 
 ### 3. Provide the codebase path
 When prompted, enter the path to a folder containing source code.
